@@ -1,1 +1,2 @@
-# Port-scanner
+# port_scanner
+сканер TCP-портов
